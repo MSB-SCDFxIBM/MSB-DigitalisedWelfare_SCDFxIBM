@@ -1,10 +1,10 @@
 # MSB-DigitalisedWelfare_SCDFxIBM
-# H6 Team Name: MSB
-⋅⋅1. Lim Jian Xiong, Jacky
-⋅⋅2. Pek Bing Zheng Jordan
-⋅⋅3. Lim Zhi Jie Daryl
-⋅⋅4. Bryan Ng Rui Jie
-⋅⋅5. Rachael Cheng Zi Xuan
+Team Name: MSB
+* Lim Jian Xiong, Jacky
+* Pek Bing Zheng Jordan
+* Lim Zhi Jie Daryl
+* Bryan Ng Rui Jie
+* Rachael Cheng Zi Xuan
 Team Members:
 
 
