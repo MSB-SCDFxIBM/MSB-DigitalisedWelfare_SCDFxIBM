@@ -1,5 +1,5 @@
 # MSB-DigitalisedWelfare_SCDFxIBM
-# H1 Team Name: MSB
+# H6 Team Name: MSB
 # H1 Team Members:
 ⋅⋅1. Lim Jian Xiong, Jacky
 ⋅⋅2. Pek Bing Zheng Jordan
